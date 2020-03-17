@@ -1,4 +1,12 @@
-# cc.licenserdf
+## Creative Commons RDF
+
+Used in [OPAL Licenses](https://github.com/projekt-opal/licenses).
+
+State on 2020-03-17:
+The data in path cc/licenserdf/licenses was last modified on 2015-06-26 (see tag [2015-06-26](https://github.com/projekt-opal/cc.licenserdf/releases/tag/2015-06-26)).
+
+
+## cc.licenserdf
 
 RDF describing Creative Commons licenses ([Describing Copyright in RDF -
 Creative Commons Rights Expression Language](https://creativecommons.org/ns))
